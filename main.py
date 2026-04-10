@@ -1,3 +1,10 @@
+"""
+
+NOMBRE, MATRICULA: Cristina Forchue Martich, 23-0865
+PROFESOR: Joerlyn Mariano Morfe Ureña 
+
+"""
+
 import threading
 import time
 
